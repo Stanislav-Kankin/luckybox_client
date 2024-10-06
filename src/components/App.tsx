@@ -6,7 +6,7 @@ function App() {
   const [user, setUser] = useState({
     id: 0,
     username: "Unknown",
-    luckyboxes: 3,
+    luckyboxes: 0,
     balance: 0,
   });
 
