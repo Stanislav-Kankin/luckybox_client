@@ -1,4 +1,4 @@
-const DEFAULT_URL = "https://af8f-46-158-207-53.ngrok-free.app";
+const DEFAULT_URL = "https://every-wombats-lead.loca.lt";
 
 //@ts-ignore
 const TG = window.Telegram.WebApp;
