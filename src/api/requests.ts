@@ -1,4 +1,4 @@
-const DEFAULT_URL = "https://famous-moons-roll.loca.lt";
+const DEFAULT_URL = "https://dry-sides-hide.loca.lt";
 
 //@ts-ignore
 const TG = window.Telegram.WebApp;
