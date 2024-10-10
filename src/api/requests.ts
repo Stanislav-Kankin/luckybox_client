@@ -1,4 +1,4 @@
-const DEFAULT_URL = "https://8e1c-147-45-193-130.ngrok-free.app";
+const DEFAULT_URL = "https://20fc-147-45-193-130.ngrok-free.app";
 
 //@ts-ignore
 const TG = window.Telegram.WebApp;
